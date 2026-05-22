@@ -1,0 +1,10 @@
+0 10-Squirrel
+1 9-Spider
+2 8-Sheep
+3 7-Cow
+4 6-Cat
+5 5-Hem
+6 4-Butterfly
+7 3-Elephant
+8 2-Horse
+9 1-Dog
