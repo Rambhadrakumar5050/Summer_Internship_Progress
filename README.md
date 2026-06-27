@@ -6,3 +6,5 @@ Image classification
 Whitebox Testing using DeepXplore
 Model Quantization
 Flask API
+Adversarial attack vector
+Both white box and black box
